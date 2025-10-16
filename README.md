@@ -18,7 +18,8 @@ Creación de funcionalidad de registro, verificación y cierre de sesión con Ex
 ***
 
 ### Despliegue en la web:
-  La página web esta desplegada en Github Pages y se aloja en el siguiente link: **AGREGAR link**
+  La página web aún no está desplegada en Github Pages
+  
 ***
 
 
